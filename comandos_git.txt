@@ -6,16 +6,3 @@ git branch nome_da_branch, cria uma branch com o nome_da_branch
 git commit -m "" serve para comitar(enviar) os arquivos e escrever uma mensagem que descreve o que foi feito
 git switch nome_da_branch serve para mudar para a branch que você quiser
 bora tentar um pouco
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
